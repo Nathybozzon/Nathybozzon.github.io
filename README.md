@@ -4,7 +4,7 @@
 
 # be.academy - My Portfolio
 
-Projeto realizado para a beAcademy junto com a PayLivre no programa DevStart.
+Projeto realizado para a BeAcademy junto com a PayLivre no programa DevStart.
 
 
 
